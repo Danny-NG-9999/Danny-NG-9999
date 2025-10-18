@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m an analyst passionate about helping businesses identify challenges, uncover opportunities, and make informed decisions. I enjoy turning complex, messy data into actionable insights and clear stories that drive strategy and impact.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My work focuses on building dashboards that are actually used and developing models that support strategic planning and financial decision-making. I thrive at the intersection of analytics, problem-solving, and business strategy.
 
-When I’m not working with data, you’ll often find me exploring London’s café scene, attending local events, or enjoying its parks and green spaces. 
+Beyond study and work, you’ll often find me exploring London’s café scene, attending local events, or enjoying its parks and green spaces. 
 
 I love that moment when data reveals something unexpected — and I’m always keen to connect with others who share an interest in finance, analytics, and using data to make a real-world impact.
 
