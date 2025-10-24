@@ -17,7 +17,7 @@ I’m an analyst passionate about helping businesses identify challenges, uncove
 
 My work focuses on building dashboards that are actually used and developing models that support strategic planning and financial decision-making. I thrive at the intersection of analytics, problem-solving, and business strategy.
 
-Beyond study and work, you’ll often find me exploring local café scene, attending local events, or enjoying its parks and green spaces. 
+Beyond study and work, you’ll often find me exploring local's café scene, attending local events, or enjoying its parks and green spaces. 
 
 I love that moment when data reveals something unexpected — and I’m always keen to connect with others who share an interest in finance, analytics, and using data to make a real-world impact.
 
