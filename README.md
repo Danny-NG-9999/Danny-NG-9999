@@ -25,11 +25,6 @@ I love that moment when data reveals something unexpected — and I’m always k
 ### [🏆 Check Out My Personal Portfolio](https://github.com/Danny-NG-9999/Academic-and-Personal-Projects)
 
 ### [💼 Check Out My Professional Portfolio](https://github.com/Danny-NG-9999/Professional-Projects)
-      
-
-## 🌱 Currently Learning 
-- Logistic Regression for Credit Risk Modeling: Deepening knowledge in applying logistic regression techniques to assess and predict credit risk. This includes understanding feature selection, data preprocessing, handling imbalanced datasets, evaluating model performance using metrics and applying model interpretability techniques to ensure actionable insights for financial decision-making.
-- Advanced Machine Learning Techniques in Scikit-learn: Exploring sophisticated machine learning algorithms and frameworks using Scikit-learn, including ensemble methods (Random Forest, Gradient Boosting, XGBoost), hyperparameter tuning, cross-validation strategies, and pipeline optimization. Emphasis is placed on developing robust, scalable, and efficient predictive models while adhering to best practices in model evaluation and deployment.
 
 ## 🛠️ Technical Skillset
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
@@ -55,5 +50,9 @@ Here are some highlights of my work:
 - 🛒 [ Strategic BI Analysis of the Brazilian E-Commerce Platform (Olist)](https://github.com/Danny-NG-9999/Professional-Projects/tree/main/E-Commerce) – Conducted an in-depth business intelligence study using real Olist data, applying advanced analytics and visualization to derive strategic insights.
 - 🧮 [FTSE and European Index Time-Series Forecasting](https://github.com/Danny-NG-9999/Academic-and-Personal-Projects/tree/main/Economic) - Comprehensive econometric study of FTSE 100 and major European indices (1985–2024), featuring ARIMA and GARCH modeling, cointegration analysis, and robust financial forecasting workflow.
 - 🧩 [Piotroski F-score analysis (JDW.L vs Peer in UK)](https://github.com/Danny-NG-9999/Academic-and-Personal-Projects/tree/main/Financial%20Analysis) - Applies the Piotroski F-Score to assess the financial health of JD Wetherspoon plc (JDW.L) relative to peers (DOM.L, MAB.L, SSPG.L) using historical financial data from 2021–2024, sourced via the yfinance library.
+
+## 🌱 Currently Self-Learning 
+- Logistic Regression for Credit Risk Modeling: Deepening knowledge in applying logistic regression techniques to assess and predict credit risk. This includes understanding feature selection, data preprocessing, handling imbalanced datasets, evaluating model performance using metrics and applying model interpretability techniques to ensure actionable insights for financial decision-making.
+- Advanced Machine Learning Techniques in Scikit-learn: Exploring sophisticated machine learning algorithms and frameworks using Scikit-learn, including ensemble methods (Random Forest, Gradient Boosting, XGBoost), hyperparameter tuning, cross-validation strategies, and pipeline optimization. Emphasis is placed on developing robust, scalable, and efficient predictive models while adhering to best practices in model evaluation and deployment.
 ---
 
